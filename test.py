@@ -1,3 +1,3 @@
-import src/main.py
+import main.py
 
 main.dupa()
